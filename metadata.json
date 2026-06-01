@@ -1,0 +1,6 @@
+{
+  "name": "Relatórios FJU",
+  "description": "Crie modelos de relatórios, compartilhe links para preenchimento e gerencie respostas consolidadas de forma organizada com exportação em PDF, Excel ou compartilhamento por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
